@@ -1,0 +1,8 @@
+.info {
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+  background: beige;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}

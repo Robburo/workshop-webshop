@@ -1,0 +1,14 @@
+.hero {
+  text-align: center;
+  padding: 6rem 2rem;
+  color: black;
+}
+.cta {
+  margin-top: 1rem;
+  padding: 0.75rem 2rem;
+  background: orange;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}

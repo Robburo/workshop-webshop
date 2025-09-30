@@ -1,0 +1,30 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.card {
+  background: beige;
+  text-align: center;
+  padding: 1rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+}
+
+.cardButton {
+  color: black;
+  background: white;
+  border-radius: 1rem;
+  width: 75px;
+  height: 25px;
+}
